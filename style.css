@@ -1,5 +1,19 @@
 
 body{
    background-color: bisque;
-   font-family: ;
+   font-family:  'Open Sans';
+}
+footer {
+   background-color: black;
+   color: aliceblue;
+   bottom: O;
+   position: fixed;
+   width: 100%;
+}
+
+footer p {
+   text-align: center;
+   font-size: small;
+   height: 2rem;
+   margin-top: 0.5rem;
 }
