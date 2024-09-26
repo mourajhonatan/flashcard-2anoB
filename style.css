@@ -17,3 +17,11 @@ footer p {
    height: 2rem;
    margin-top: 0.5rem;
 }
+.cartão{
+   margin: 1rem 1rem; /*espaço externo 1rem p/ todos os lados*/
+   background-color: aqua; /*tela de fundo cor água*/
+   
+
+
+
+}
